@@ -1,3 +1,3 @@
 [x] [Easy Questions](difficulty/easy)
-[x] [Easy Questions](difficulty/medium)
-[x] [Easy Questions](difficulty/hard)
+[x] [Medium Questions](difficulty/medium)
+[x] [Hard Questions](difficulty/hard)
